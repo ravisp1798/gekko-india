@@ -1,5 +1,5 @@
 {
-  "name": "gekko",
+  "name": "gekko-india",
   "version": "0.6.8",
   "description": "A bitcoin trading bot for auto trading at various exchanges",
   "keywords": [
@@ -13,7 +13,7 @@
     "test": "./node_modules/.bin/mocha test/*.js --recursive test -u tdd --reporter spec",
     "start": "node ./gekko --config config.js --ui"
   },
-  "author": "Mike van Rossum <mike@mvr.me>",
+  "author": "ravisp1798",
   "dependencies": {
     "async": "2.1.2",
     "bitfinex-api-node": "^1.2.1",
@@ -55,6 +55,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/askmike/gekko.git"
+    "url": "https://github.com/ravisp1798/gekko-india.git"
   }
 }
